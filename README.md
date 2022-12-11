@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Islam AbdelRadi</h1>
 <h3 align="center">I'm Frontend Developer from Egypt</h3>
 <p>- I learned programming initially for one year through paid courses - then I moved to YouTube, research and development by myself and learn more - learning and this is what succeeded in developing my skills to become who I am now.</p>
-
+<li>🌍 I'm based in algeria but ready to move</li>
+<li>🧠 I'm learning react</li>
+<li>🤝 I'm open to collaborating on HIGHT IMPACT PROJECT</li>
+<li>⚡ I like solving problems ^_^</li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/islamabdelradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="islamabdelradi" height="30" width="40" /></a>
